@@ -1,3 +1,3 @@
 # Java
 
-Same java programs :)
+Some java programs :)
